@@ -1,0 +1,8 @@
+1. Copy video url
+2. Remove "https://"
+3. Convert link at https://onlinetexttools.com/url-encode-text (check Escape All Text)
+4. Type "https://" and paste the output of step 3
+5. Send
+6.1 Type s/%2F//
+6.2 Type s/%2E/. ONLY DO THIS IF STILL DOESNT WORK AFTER step 6.1
+7. Press enter
