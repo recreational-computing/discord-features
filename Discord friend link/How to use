@@ -1,0 +1,6 @@
+1. Open discord in browser
+2. Log in
+3. Open console
+4. Paste `webpackChunkdiscord_app.push([[[""]],{},q=>Object.values(q.c).find(e=>e.exports?.Z?.createFriendInvite).exports.Z.createFriendInvite().then(console.log)])` and press enter
+5. Find the output 'your_code' written in cyan color
+6. Put your_code into "https://discord.gg/your_code"
