@@ -1,11 +1,3 @@
-#  Create your own discord friend link
+#  List of all discord features
 
-##  ⚠️Invite link will expire after 5 uses or 7 days⚠️
-
-##  Steps:
-1. Open discord in browser
-2. Log in
-3. Open console
-4. Paste code and press enter
-5. Find the output 'your_code' written in cyan color
-6. Replace XXX in "https://discord.gg/XXX" with the your_code
+##  Use these funny/discord breaking features with easy step-by-step guide on how to recreate them!
